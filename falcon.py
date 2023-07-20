@@ -25,7 +25,7 @@ PARAMETERS = {
     "stop_sequences": ["<|endoftext|>", "</s>"],
 }
 CLIENT_7B = Client("http://")  # Fill this part local port after installing falcon on your local
-
+CLIENT_40B = Client("https://")  # Fill this part endpoint of server
 
 
 def parse_args():
