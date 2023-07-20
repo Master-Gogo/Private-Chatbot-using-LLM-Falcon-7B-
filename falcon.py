@@ -125,3 +125,5 @@ if __name__ == "__main__":
 
         print("\n***40b response***")
         print(text)
+# reference video https://www.youtube.com/watch?v=hSQY4N1u3v0
+# for installation of falcom https://www.youtube.com/watch?v=o1BCq1KJULM
